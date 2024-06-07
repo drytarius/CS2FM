@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CS2FontManager" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CoreFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\core\panorama\fonts\conf.d</Value>
+    </Setting>
+    <Setting Name="GameFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\panorama\fonts</Value>
+    </Setting>
+    <Setting Name="FontList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
