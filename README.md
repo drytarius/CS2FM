@@ -1,5 +1,5 @@
 > ## Releases <img alt="GitHub Release (Latest)" src="https://img.shields.io/github/v/release/drytarius/CS2FM">
-> Download [here](https://github.com/drytarius/CS2FM/releases/latest/download/CS2FM.exe) .
+> Download latest [here](https://github.com/drytarius/CS2FM/releases/latest/download/CS2FM.exe) .
 > All releases [here](https://github.com/drytarius/CS2FM/releases) .
 
 
