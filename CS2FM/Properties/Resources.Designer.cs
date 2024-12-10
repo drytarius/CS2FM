@@ -61,11 +61,51 @@ namespace CS2FM.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bullet_arrow_down {
+            get {
+                object obj = ResourceManager.GetObject("bullet_arrow_down", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bullet_arrow_up {
+            get {
+                object obj = ResourceManager.GetObject("bullet_arrow_up", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap folder {
+            get {
+                object obj = ResourceManager.GetObject("folder", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
         internal static byte[] fonts_conf {
             get {
                 object obj = ResourceManager.GetObject("fonts_conf", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] fonts_default {
+            get {
+                object obj = ResourceManager.GetObject("fonts_default", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -81,22 +121,22 @@ namespace CS2FM.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static System.Drawing.Bitmap ico_down {
+        internal static byte[] global_default {
             get {
-                object obj = ResourceManager.GetObject("ico_down", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                object obj = ResourceManager.GetObject("global_default", resourceCulture);
+                return ((byte[])(obj));
             }
         }
         
         /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static System.Drawing.Bitmap ico_up {
+        internal static byte[] stratum2 {
             get {
-                object obj = ResourceManager.GetObject("ico_up", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                object obj = ResourceManager.GetObject("stratum2", resourceCulture);
+                return ((byte[])(obj));
             }
         }
     }
