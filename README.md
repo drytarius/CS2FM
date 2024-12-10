@@ -28,5 +28,7 @@ Now close Counter Strike 2 if you have it running and launch it again. If everyt
 ## Check my other project(s):
 
 <div align=center>
+	<img alt="GitHub release (latest by date)" src=https://github.com/drytarius/drytarius/blob/main/logo/cs2cfg_colored.png?raw=true"">
+	<br>
 	<a href="https://cscfg.42web.io/">CSCFG - Counter Strike 2: Config Maker</a>
 </div>
